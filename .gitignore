@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.idea/
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+outputs/
+results/
+data/
+*.fits
+*.h5
+*.npy
